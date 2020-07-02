@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d99fd8de-8950-4c3e-b17b-7a71d8be0ad0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e25StalpiSuu1DOuvYbd24wlaY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Task3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maxim\Desktop\HelpAnya\Task5\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99fd8de-8950-4c3e-b17b-7a71d8be0ad0" name="Default Changelist" comment="" />
+      <created>1593506849235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593506849235</updated>
+      <workItem from="1593506853023" duration="3035000" />
+      <workItem from="1593579077586" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2377" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1593509745843">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2377" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509745843" />
+    <state x="2302" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593507032372">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2302" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593507032372" />
+    <state x="672" y="283" key="FileChooserDialogImpl" timestamp="1593579095021">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="672" y="283" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1680.1010@0.0.1680.1010" timestamp="1593579095021" />
+    <state x="2352" y="283" key="FileChooserDialogImpl/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509123524" />
+    <state width="1340" height="256" key="GridCell.Tab.0.bottom" timestamp="1593509890635">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.bottom/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890635" />
+    <state width="1340" height="256" key="GridCell.Tab.0.center" timestamp="1593509890635">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.center/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890635" />
+    <state width="1340" height="256" key="GridCell.Tab.0.left" timestamp="1593509890635">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.left/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890635" />
+    <state width="1340" height="256" key="GridCell.Tab.0.right" timestamp="1593509890635">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="256" key="GridCell.Tab.0.right/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890635" />
+    <state width="1340" height="316" key="GridCell.Tab.1.bottom" timestamp="1593509890632">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="316" key="GridCell.Tab.1.bottom/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890632" />
+    <state width="1340" height="316" key="GridCell.Tab.1.center" timestamp="1593509890632">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="316" key="GridCell.Tab.1.center/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890632" />
+    <state width="1340" height="316" key="GridCell.Tab.1.left" timestamp="1593509890631">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="316" key="GridCell.Tab.1.left/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890631" />
+    <state width="1340" height="316" key="GridCell.Tab.1.right" timestamp="1593509890632">
+      <screen x="1680" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1340" height="316" key="GridCell.Tab.1.right/0.0.1680.1010/1680.0.1680.1010@1680.0.1680.1010" timestamp="1593509890632" />
+  </component>
+</project>
